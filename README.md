@@ -4,7 +4,7 @@
 1. Download the release file
 
 ## User guide
-1. Run the command npm start in thd directory containing the file
+1. Run the command ```npm start``` in thd directory containing the file
 2. Open the browser and go to the website of your choice
 
 ##Constraints
